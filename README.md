@@ -3,6 +3,8 @@ any contributions merged will end up in the real playlist
 
 i use [this playlist manager](https://github.com/Synapse512/youtube-playlist-manager) for the formatting of the text file, and also to push the actual changes to the playlist
 
+---
+
 ### basic rules:
 - try not to include uploads that are of bad quality (have multiple audios playing)
 - no UST tracks
