@@ -1,9 +1,11 @@
 hi this is used to maintain the [Forsaken OST playlist](https://www.youtube.com/playlist?list=PLAl67ptS1aswzAivpHhYc7b66_w2JrtDd) that somehow has 56,922,914+ views    
 
-the playlist is simply too big to be manually ordered anymore so i use this text file plus [this playlist manager](https://github.com/Synapse512/youtube-playlist-manager) for the formatting and to push the changes of the text file. AND since youtube keeps breaking the order like every few days i have to keep fixing it with that whenever it does
+the playlist is simply too big to be manually ordered anymore so i use this text file plus [this playlist manager](https://github.com/Synapse512/youtube-playlist-manager) for the formatting and to push the changes of the text file. AND since youtube keeps breaking the order like every few days i have to keep fixing it with that whenever it does. ALSO youtube is removing views from the playlist by hundreds of thousands so thats fun. 
 
 
 i use [this playlist manager](https://github.com/Synapse512/youtube-playlist-manager) for the formatting of the text file, and also to push the actual changes to the playlist
+
+---
 
 ### basic rules:
 - try not to include uploads that are of bad quality (have multiple audios playing)
