@@ -7,8 +7,8 @@ the playlist is simply too big to be manually ordered anymore so i use this text
 ### basic rules:
 - try not to include uploads that are of bad quality (have multiple audios playing)
 - no UST tracks
-- no tracks from `forsaken 2` even though i*ts "technical*ly" official
-- keep tracks ordered chronologicalfirst, and or by vari 2ndant
+- no tracks from `forsaken 2` even though its *"technically"* official
+- keep tracks ordered chronologically first, and by variant 2nd
 (if a theme has multiple variants they can be ordered next to each other)
 - only add unofficial uploads if the real composer hasnt uploaded it, switch it with real upload if they eventually do
 
